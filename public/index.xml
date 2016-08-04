@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curriculum Vitae - Ian Stahnke</title>
+    <link>http://pr8kerl.github.io/</link>
+    <description>Recent content on Curriculum Vitae - Ian Stahnke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Jul 2016 23:38:42 +1000</lastBuildDate>
+    <atom:link href="http://pr8kerl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>education</title>
+      <link>http://pr8kerl.github.io/cvsections/education/</link>
+      <pubDate>Tue, 19 Jul 2016 23:38:42 +1000</pubDate>
+      
+      <guid>http://pr8kerl.github.io/cvsections/education/</guid>
+      <description>
+
+&lt;h2 id=&#34;professional-training&#34;&gt;Professional Training&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2008&lt;/strong&gt; RedHat Certified Engineer - Liga LinDist ApS, Copenhagen&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2007&lt;/strong&gt; Oracle 10G Administration Workshop I – Bonner, Frankfurt&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2006&lt;/strong&gt; SAP Administration and Authorisation (Inhouse EUMETSAT)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2005&lt;/strong&gt; HP Openview Operations for UNIX I – HP UK&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2004&lt;/strong&gt; Solaris Performance Analysis – Sun Education&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2003&lt;/strong&gt; Sun Cluster 3.1 Administration – Sun Education&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2002&lt;/strong&gt; HP OpenView Network Node Manager – HP Education&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2001&lt;/strong&gt; Hands On MC/ServiceGuard – HP Education&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1999&lt;/strong&gt; IBM Certified Specialist – AIX v4.3 System Administration&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1998&lt;/strong&gt; RS/6000 SP System Administration – IBM Education&lt;/li&gt;
+&lt;li&gt;Unicenter TNG Basics and Advanced – Auldhouse&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1997&lt;/strong&gt; HP-UX 10.20 System Administration – HP Education&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1996&lt;/strong&gt; Netview AOC Implementation &amp;amp; Automation – IBM Education&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1994&lt;/strong&gt; MVS/JES2 Computer Operations – HIC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;secondary&#34;&gt;Secondary&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1992&lt;/strong&gt; Canberra College of TAFE.
+Completed ACT Year 12 Certificate.
+&lt;strong&gt;1980 – 1985&lt;/strong&gt; Canberra Grammar School.
+Completed NSW Higher School Certificate.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tertiary&#34;&gt;Tertiary&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1993&lt;/strong&gt; University of Canberra.
+Completed first year Bachelor of Engineering (Computer Engineering).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>employment</title>
+      <link>http://pr8kerl.github.io/cvsections/employment/</link>
+      <pubDate>Tue, 19 Jul 2016 23:38:42 +1000</pubDate>
+      
+      <guid>http://pr8kerl.github.io/cvsections/employment/</guid>
+      <description>
+
+&lt;h2 id=&#34;employment-history&#34;&gt;employment history&lt;/h2&gt;
+
+&lt;h3 id=&#34;eumetsat-darmstadt-germany&#34;&gt;EUMETSAT, Darmstadt, Germany&lt;/h3&gt;
+
+&lt;p&gt;|Jun 2004 – Present|UNIX System Engineer
+|Duties|Installation, configuration and support of UNIX servers,
+comprising various Sun SPARC servers running Solaris 8/9/10
+and HP Linux servers running SLES9/10 and OES1.
+Configuration and support of Sun based 4 node Veritas Cluster
+3.5, running various internet facing web servers
+(Apache/Squid) and applications such as Tomcat, Glassfish
+and Oracle Content Management Server.
+Responsible for heterogeneous backup infrastructure utilising
+Netbackup Enterprise 6.5; Storage Management of HP
+Enterprise Virtual Array 6000 and Storage Area Network.
+Configuration and support of HP OpenView Operations to
+provide Systems Management.
+Installation, configuration of Oracle 9i and 10g databases.
+Second level UNIX support to internal IT customers.
+Extensive automation and monitoring implemented in perl and
+shell. Perform change management procedures and
+documentation of infrastructure, configuration and changes.
+|Achievements|Implementation of SAN based hardware snapshot backups
+using Netbackup and HP EVA.
+Migration of backup technology from DLT to LTO-4.
+Implementation of HP Openview Operations to monitor
+hetereogenous IT infrastructure.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
