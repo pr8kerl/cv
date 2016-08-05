@@ -1,8 +1,9 @@
-baseurl = "http://pr8kerl.github.io/"
+baseurl = "https://pr8kerl.github.io/"
 languageCode = "en-us"
 title = "Curriculum Vitae - Ian Stahnke"
 theme = "cv"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
+relativeURLs = true
 canonifyurls = true

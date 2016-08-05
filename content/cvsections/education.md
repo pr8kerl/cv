@@ -1,5 +1,5 @@
 ---
-date: "2016-07-19T23:38:42+10:00"
+weight: 50
 title: "education"
 sectionid: "sec1"
 ---

@@ -1,5 +1,5 @@
 ---
-date: "2016-07-19T23:38:42+10:00"
+weight: 40
 title: "employment"
 sectionid: "sec2"
 ---
@@ -35,10 +35,11 @@ Single handedly architected and implemented the [MYOB website](https://www.myob.
 Many pieces of automation to add business value using various languages and frameworks such as Ruby, Python, Perl and Golang.
 Architected and implemented new micros-services infrastructure such as MyDot API, and Billing API.
 
+###### next
 
 ### IBM Global Services - Telstra, Melbourne
 #### Netbackup Storage Engineer - Contract
-#### Jan 2009 – December 2009 
+#### Mar 2009 – December 2009 
 
 ---
 #### Duties
@@ -47,6 +48,8 @@ Provide storage management support services for the Telstra account. Monitor and
 ---
 #### Achievements
 Automate backup status checks and restart of failed jobs to be able to meet SLA's.
+
+###### next
 
 ### EUMETSAT, Darmstadt, Germany
 #### UNIX System Engineer
