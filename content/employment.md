@@ -11,31 +11,24 @@ sectionid: "sec2"
 
 ---
 #### Duties
-Manage and maintain all internal services hosted on Linux/Solaris and AWS.
-Linux/UNIX, and storage systems management including, web
-server management (apache, tomcat), SSL certificate management,
-AWS account management etc.
-Automation of Linux/Unix system management to provide
-capabilities to clients through tools such as Ansible, Puppet etc.
-Ensuring production, test and development environments are
-operating optimally and to the agreed service levels.
-Design, develop and build technology solutions to meet business
-needs
-Monitoring for availability and capacity management of
-environments
-Delivering appropriate failover and disaster recovery procedures
-and processes for critical systems
-Proactive management of all Unix technologies i.e. Upgrades, patch
-management and firmware updates as appropriate.
+Manage and maintain all UNIX based internal services hosted on-premise and in AWS. 
+WebOps for [corporate website](https://www.myob.com/) running AEM (Adobe Experience Manager) hosted in AWS Sydney.
+Configuration Management using Ansible, Puppet and git. 
+Linux/UNIX full stack systems management including web server technology (Apache, Tomcat, JBoss, Haproxy, Varnish), PKI management, AWS account management.
+Ensuring production, test and development environments are operating optimally and to the agreed service levels. 
+Design, develop and build technology solutions to meet business needs. 
+Monitoring for availability and capacity management of environments. 
+Automation of systems management as well as business processes.
+Delivering appropriate high-availability and disaster recovery procedures and processes for critical systems.
+Agile processes; ITIL v3 certified.
 
 ---
 #### Achievements
-The only UNIX resource within IT Services responsible for everything UNIX/Linux for 5 years.
-Single handedly architected and implemented the [MYOB website](https://www.myob.com/) infrastructure hosted in AWS and running in Adobe Experience Manager.
-Many pieces of automation to add business value using various languages and frameworks such as Ruby, Python, Perl and Golang.
-Architected and implemented new micros-services infrastructure such as MyDot API, and Billing API.
+Sole resource to architect and implement the MYOB website infrastructure hosted in AWS and running  Adobe Experience Manager 6.1. 
+The single UNIX resource within IT Services responsible for everything UNIX/Linux for 5 years. 
+Many pieces of automation to add business value using various languages and frameworks such as Python, Perl, Golang, Bash, NodeJS and Ruby. Architected and implemented infrastructure for new micro-services.
 
-###### next
+###### _
 
 ### IBM Global Services - Telstra, Melbourne
 #### Netbackup Storage Engineer - Contract
@@ -49,7 +42,7 @@ Provide storage management support services for the Telstra account. Monitor and
 #### Achievements
 Automate backup status checks and restart of failed jobs to be able to meet SLA's.
 
-###### next
+###### _
 
 ### EUMETSAT, Darmstadt, Germany
 #### UNIX System Engineer
@@ -94,7 +87,7 @@ Implementation of HP Openview Operations to monitor
 hetereogenous IT infrastructure.
 
 
-###### next
+###### _
 
 ### AXA Australia, Melbourne.
 #### UNIX System Administrator, i5
@@ -127,7 +120,7 @@ Single-handedly implement Unicenter NSM across midrange environment including eC
 
 Implement NIS+ environment.
 
-###### next
+###### _
 
 ### Computer Associates, Melbourne
 #### Post Sales Technical Consultant
@@ -146,7 +139,7 @@ Delivered Unicenter TNG implementations and customisations
 to a number of customers including Dept Human Services,
 Touchcorp, CSC (DFAT Canberra)
 
-###### next
+###### _
 
 ### EDS Australia - General Motors, Melbourne
 #### Systems Engineer
@@ -167,7 +160,7 @@ Rapidly acquire knowledge of NIS, Legato Networker, LSF
 environment.
 Implemented AIX Network Install Manager (NIM) environment.
 
-###### next
+###### _
 
 ### AXA Australia, Melbourne.
 #### UNIX System Administrator, i4
@@ -191,7 +184,7 @@ Advanced Storage Option.
 Implemented StorageTek REELBackup – high performance,
 enterprise backup solution.
 
-###### next
+###### _
 
 ### National Mutual Computer Services, Melbourne.
 #### MVS Systems Operator, i2
@@ -210,7 +203,7 @@ Designed Unicenter Event Messaging definitions.
 Implemented Netview automation to monitor IMS databases
 and transactions
 
-###### next
+###### _
 
 ### Health Insurance Commission, Canberra
 #### Mainframe Computer Operator, AO3
@@ -226,7 +219,7 @@ Netview automation. Provision of 1 st level Help Desk support to
 national CICS/VTAM network. Supervision of nightly online
 cheque prints.
 
-###### next
+###### _
 
 ### Health Insurance Commission, Canberra
 #### Mainframe Computer Operator, AO2
@@ -241,7 +234,7 @@ operations. Extensive use of numerous mainframe applications
 such as ISPF, SDSF, Netmaster, Infoman, CA-1, Omegamon
 and CICS.
 
-###### next
+###### _
 
 ### Health Insurance Commission, Canberra
 #### Trainee Computer Operator, AO1
